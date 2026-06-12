@@ -1,4 +1,3 @@
-# Oficina Tech
 
 <p align="center"> <img src="./img/intro.png" alt="Oficina Tech Banner"/> </p>
 
