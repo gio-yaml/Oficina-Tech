@@ -28,18 +28,16 @@ Você não precisa de um laboratório caro pra começar. Vou colocar aqui um kit
 
 ## Ferramentas boas para iniciantes
 
-| Ferramenta                | Pra que serve                              |
-| ------------------------- | ------------------------------------------ |
-| Multímetro digital        | Testar energia, continuidade e componentes |
-| Kit de chaves de precisão | Abrir brinquedos e eletrônicos             |
-| Ferro de solda            | Conectar fios e componentes                |
-| Estanho                   | Fazer soldas                               |
-| Sugador de solda          | Corrigir erros                             |
-| Protoboard                | Testar circuitos sem solda                 |
-| Jumpers                   | Conectar componentes                       |
-| ESP32                     | Projetos com Wi-Fi e automação             |
-| Arduino Uno               | Aprender eletrônica básica                 |
-| Raspberry Pi              | Cyberdecks, Linux e mini PCs               |
+| Ferramenta                | Pra que serve                              | Faixa de preço |
+| ------------------------- | ------------------------------------------ | -------------- |
+| Multímetro digital        | Testar energia, continuidade e componentes | R$25–80        |
+| Kit de chaves de precisão | Abrir brinquedos e eletrônicos             | R$20–60        |
+| Ferro de solda            | Conectar fios e componentes                | R$30–100       |
+| Protoboard                | Testar circuitos sem solda                 | R$15–40        |
+| ESP32                     | Projetos com Wi-Fi e automação             | R$25–60        |
+| Arduino Uno               | Aprender eletrônica básica                 | R$30–70        |
+
+Links úteis:
 
 ---
 
@@ -250,8 +248,9 @@ Computadores portáteis DIY inspirados em sci-fi e cultura hacker.
 * cases customizadas
 
 Comunidade do discord: 
+https://discord.com/invite/8PJZ9zBfH
 
-Reddit:
+Reddit: 
 https://www.reddit.com/r/cyberDeck
 
 ---
@@ -278,3 +277,25 @@ Quebre coisas.
 Documente coisas.
 
 Aprender tecnologia também pode ser divertido.
+
+---
+
+# 🌐 Me acompanhe nas redes
+
+Se você gosta de tecnologia criativa, hardware hacking, projetos estranhos, desmontagem, retro tech e explorar possibilidades aleatórias da tecnologia:
+
+## TikTok
+
+@gio.yaml
+https://www.tiktok.com/@gio.yaml
+
+## Instagram
+@gio.yaml
+https://www.instagram.com/gio.yaml/
+
+## YouTube
+
+[https://www.youtube.com/@gio.yaml](https://www.youtube.com/@GioYaml)
+
+Vou continuar documentando projetos, experimentos e ideias malucas por lá também :)
+
