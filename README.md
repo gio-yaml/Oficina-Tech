@@ -1,4 +1,7 @@
 # Oficina Tech
+
+<p align="center"> <img src="./img/intro.png" alt="Oficina Tech Banner"/> </p>
+
 > Curadoria da internet maker, hardware hacking e tecnologia criativa.
 
 A galera tá me vendo desmontar coisas, modificar hardware, fazer projetos estranhos e explorar as possibilidades da tecnologia e uma das perguntas que eu mais recebo é:
