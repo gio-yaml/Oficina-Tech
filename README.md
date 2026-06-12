@@ -33,11 +33,16 @@ Você não precisa de um laboratório caro pra começar. Vou colocar aqui um kit
 | Multímetro digital        | Testar energia, continuidade e componentes | R$25–80        |
 | Kit de chaves de precisão | Abrir brinquedos e eletrônicos             | R$20–60        |
 | Ferro de solda            | Conectar fios e componentes                | R$30–100       |
-| Protoboard                | Testar circuitos sem solda                 | R$15–40        |
 | ESP32                     | Projetos com Wi-Fi e automação             | R$25–60        |
-| Arduino Uno               | Aprender eletrônica básica                 | R$30–70        |
+| Kit Arduino Uno           | Aprender eletrônica básica                 | R$30–70        |
 
-Links úteis:
+Recomendo:
+
+- [Multímetro](https://s.shopee.com.br/8pjMRtv7XW)
+- [Kit de chaves de precisão](https://s.shopee.com.br/7pqpG8N5gw)
+- [Ferro de solda (com controle de temperatura)](https://s.shopee.com.br/AKYAEm4Wan)
+- [ESP32](https://s.shopee.com.br/9zvJqJVzfs)
+- [Kit Arduino Uno](https://s.shopee.com.br/9zvJqN8Na3)
 
 ---
 
