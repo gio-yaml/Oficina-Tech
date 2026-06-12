@@ -82,7 +82,7 @@ A maior parte das pessoas aprende isso colocando a mão na massa!
 
 ---
 
-# 🗺️ Roadmap Maker
+# 🗺️ Roadmap pra aprender o básico de eletrônica
 
 Não existe uma "ordem certa", mas você pode explorar o que parecer divertido. Caso você tenha dificuldades de saber por onde começar sem nenhum direcionamento, vou te dar umas dicas de conteúdos que irão te ajudar bastante a entender.
 
