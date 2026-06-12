@@ -24,7 +24,7 @@ A ideia é ser um arquivo vivo em que todos podem contribuir!
 
 ---
 
-# 🛠️ Kit Inicial Maker
+# 🛠️ Kit Inicial Eletrônica
 
 Você não precisa de um laboratório caro pra começar. Vou colocar aqui um kitzinho interessante pra quem quer iniciar, mas muitas vezes você não precisa comprar tudo de uma vez também, conforme você for criando o projeto, você pode ir comprando aos poucos pois nem todos os projetos precisam de todas as ferramentas.
 
