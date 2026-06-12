@@ -156,10 +156,6 @@ Mapa mundial de hackerspaces.
 
 https://hackerspaces.org
 
----
-
-# 🌐 Sites e Comunidades
-
 ### Clube do Hardware
 
 https://www.clubedohardware.com.br/artigos/
