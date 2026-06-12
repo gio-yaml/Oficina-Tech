@@ -274,6 +274,22 @@ https://www.reddit.com/r/cyberDeck
 
 ---
 
+---
+
+# 💡 Apoiando projetos sociais de tecnologia
+
+## Fala Migo
+
+O @projetofalamigo é uma iniciativa de software e comunicação assistiva focada no desenvolvimento e inclusão de crianças autistas não verbais.
+
+O projeto une tecnologia, empatia e desenvolvimento infantil para criar ferramentas digitais que ajudam na comunicação e incentivam mais autonomia para crianças e famílias.
+
+📱 Instagram:
+https://www.instagram.com/projetofalamigo/
+
+---
+
+
 # 📚 Se permita errar!
 
 A melhor forma de aprender tecnologia é construindo coisas.
