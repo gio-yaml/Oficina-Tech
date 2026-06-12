@@ -1,4 +1,4 @@
-# Internet Maker BR
+# Oficina Tech
 > Curadoria da internet maker, hardware hacking e tecnologia criativa.
 
 A galera tá me vendo desmontar coisas, modificar hardware, fazer projetos estranhos e explorar as possibilidades da tecnologia e uma das perguntas que eu mais recebo é:
@@ -9,13 +9,13 @@ E a verdade é que quase ninguém aprende isso de um jeito tradicional.
 
 A maioria aprende desmontando coisas aleatórias, entrando em fóruns de 2009, vendo projetos absurdos no YouTube às 3 da manhã, explorando rabbit holes da internet e testando tudo na prática até funcionar (ou não, e tudo bem também).
 
-Criei o Internet Maker BR pra organizar esse lado da internet.
+Criei o Oficina Tech pra organizar esse lado da internet.
 
 Aqui eu quero juntar lugares interessantes, comunidades maker, hackerspaces brasileiros, canais, projetos, cyberdecks, engenharia reversa, circuit bending e todo tipo de tecnologia criativa que faz você olhar e pensar:
 
 > “dá pra fazer isso?”
 
-O Internet Maker BR é uma curadoria direcionada para quem quer começar e não sabe por onde. Ou quem já começou mas quer ter informações de cursos, eventos, e coisas interessantes da cultura maker/hardware hacking pra explorar.
+O Oficina Tech é uma curadoria direcionada para quem quer começar e não sabe por onde. Ou quem já começou mas quer ter informações de cursos, eventos, e coisas interessantes da cultura maker/hardware hacking pra explorar.
 Aqui é pra quem gosta de explorar, construir, modificar e aprender fazendo!
 
 A ideia é ser um arquivo vivo em que todos podem contribuir!
