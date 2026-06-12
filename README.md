@@ -1,7 +1,7 @@
-# Makerpedia
+# Internet Maker BR
 > Curadoria da internet maker, hardware hacking e tecnologia criativa.
 
-Se você chegou aqui, provavelmente viu alguém transformando um brinquedo velho em sintetizador, montando um computador portátil dentro de uma maleta ou criando algum gadget estranho com ESP32 e pensou:
+A galera tá me vendo desmontar coisas, modificar hardware, fazer projetos estranhos e explorar as possibilidades da tecnologia e uma das perguntas que eu mais recebo é:
 
 > “ok mas COMO as pessoas aprendem isso?”
 
@@ -9,22 +9,22 @@ E a verdade é que quase ninguém aprende isso de um jeito tradicional.
 
 A maioria aprende desmontando coisas aleatórias, entrando em fóruns de 2009, vendo projetos absurdos no YouTube às 3 da manhã, explorando rabbit holes da internet e testando tudo na prática até funcionar (ou não, e tudo bem também).
 
-Criei o Makerpedia pra organizar esse lado da internet.
+Criei o Internet Maker BR pra organizar esse lado da internet.
 
 Aqui eu quero juntar lugares interessantes, comunidades maker, hackerspaces brasileiros, canais, projetos, cyberdecks, engenharia reversa, circuit bending e todo tipo de tecnologia criativa que faz você olhar e pensar:
 
 > “dá pra fazer isso?”
 
-O makerpedia não é um curso, é uma curadoria direcionada para quem quer começar e não sabe por onde. Ou quem já começou mas quer ter informações de cursos, eventos, e coisas interessantes da cultura maker/hardware hacking pra explorar.
+O Internet Maker BR é uma curadoria direcionada para quem quer começar e não sabe por onde. Ou quem já começou mas quer ter informações de cursos, eventos, e coisas interessantes da cultura maker/hardware hacking pra explorar.
 Aqui é pra quem gosta de explorar, construir, modificar e aprender fazendo!
 
-É um arquivo vivo da cultura maker.
+A ideia é ser um arquivo vivo em que todos podem contribuir!
 
 ---
 
 # 🛠️ Kit Inicial Maker
 
-Você não precisa de um laboratório caro pra começar.
+Você não precisa de um laboratório caro pra começar. Vou colocar aqui um kitzinho interessante pra quem quer iniciar, mas muitas vezes você não precisa comprar tudo de uma vez também, conforme você for criando o projeto, você pode ir comprando aos poucos pois nem todos os projetos precisam de todas as ferramentas.
 
 ## Ferramentas boas para iniciantes
 
@@ -37,7 +37,6 @@ Você não precisa de um laboratório caro pra começar.
 | Sugador de solda          | Corrigir erros                             |
 | Protoboard                | Testar circuitos sem solda                 |
 | Jumpers                   | Conectar componentes                       |
-| Alicate de corte          | Cortar fios                                |
 | ESP32                     | Projetos com Wi-Fi e automação             |
 | Arduino Uno               | Aprender eletrônica básica                 |
 | Raspberry Pi              | Cyberdecks, Linux e mini PCs               |
@@ -54,7 +53,7 @@ A cultura maker gira em torno de:
 * experimentar
 * aprender fazendo
 
-É tecnologia como criatividade, não só teoria.
+Dentro da tecnologia, seria tecnologia como criatividade, não só teoria.
 
 Você pode começar desmontando brinquedos, reaproveitando eletrônicos antigos, fazendo automações, criando gadgets estranhos, montando computadores customizados.
 
@@ -84,11 +83,11 @@ Não existe uma "ordem certa", mas você pode explorar o que parecer divertido. 
 
 Comece aprendendo:
 
-* o que são resistores, LEDs e capacitores
-* como funciona corrente, voltagem e alimentação
-* como usar uma protoboard
-* como usar um multímetro
-* como fazer soldas simples
+* O que são resistores, LEDs e capacitores
+* Como funciona corrente, voltagem e alimentação
+* Como usar uma protoboard
+* Como usar um multímetro
+* Como fazer soldas simples
 
 Então tente: 
 * teste botões e sensores
@@ -98,7 +97,7 @@ Então tente:
 
 ## Experimentar Microcontroladores
 
-Depois do básico, começa a parte mais divertida: começar a explorar hardwares mais personalizáveis
+Depois do básico, começa a parte mais divertida: começar a explorar hardwares mais personalizáveis. São os microcontroladores, são esses:
 
 ### Arduino
 
@@ -138,31 +137,30 @@ O objetivo aqui já não é mais só seguir tutorial. É começar a testar ideia
 
 ---
 
-## Rabbit Holes Maker
+# 🇧🇷 Comunidades Brasileiras
 
-A partir daqui você provavelmente vai começar a entrar em nichos muito específicos da internet maker.
+## Garoa Hacker Clube
 
-Tipo:
+O hackerspace mais famoso do Brasil.
 
-* cyberdecks
-* engenharia reversa
-* RF hacking
-* synths DIY
-* CRT mods
-* hardware experimental
-* teclados mecânicos customizados
-* retrocomputação
-* gadgets cyberpunk
-* hardware open source
+https://garoa.net.br
 
-Normalmente é nessa fase que os projetos começam a ficar realmente pessoais e estranhos (no melhor sentido possível).
+## Hackerspaces.org
 
+Mapa mundial de hackerspaces.
+
+https://hackerspaces.org
 
 ---
 
 # 🌐 Sites e Comunidades
 
-## Hardware Hacking
+### Clube do Hardware
+
+https://www.clubedohardware.com.br/artigos/
+
+Site em português com vários artigos interessantes pra quem quer conhecer mais de eletrônica
+
 
 ### Hackaday
 
@@ -182,40 +180,6 @@ Tutoriais DIY e projetos documentados.
 
 https://www.instructables.com
 
-### Dangerous Prototypes
-
-Hardware hacking mais hardcore.
-
-https://dangerousprototypes.com
-
----
-
-# 🇧🇷 Comunidades Brasileiras
-
-## Garoa Hacker Clube
-
-O hackerspace mais famoso do Brasil.
-
-https://garoa.net.br
-
-## Lab de Garagem
-
-Comunidade maker brasileira clássica.
-
-https://labdegaragem.com
-
-## Matehackers
-
-Hackerspace focado em tecnologia aberta.
-
-https://matehackers.org
-
-## Hackerspaces.org
-
-Mapa mundial de hackerspaces.
-
-https://hackerspaces.org
-
 ---
 
 # 📺 YouTube Brasil
@@ -226,23 +190,31 @@ ESP32, Arduino e automação explicados de forma acessível.
 
 https://www.youtube.com/@BrincandocomIdeias
 
-## WR Kits
-
-Eletrônica raiz e engenharia reversa.
-
-https://www.youtube.com/@wrkits
-
-## Eletrônica Fácil
-
-Didática excelente pra iniciantes.
-
-https://www.youtube.com/user/eletrnicafacil
-
 ## Manual do Mundo
 
 Mentalidade maker e desmontagem.
 
 https://www.youtube.com/@manualdomundo
+
+ 
+## Os Manjadores da Computação
+
+Eletrônica básica de um jeito mais informal.
+
+https://www.youtube.com/@osmanjadoresdacomputacao1975
+
+
+## Eletrônica fácil
+
+Vídeos didáticos para aprender o básico de eletrônica
+
+https://www.youtube.com/@eletronicafaciloficial
+
+## Electro Lab
+
+Eletrônica, tecnologia e engenharia explicadas de forma simples
+
+https://www.youtube.com/@Electrolab-Eletronica/videos
 
 ---
 
@@ -250,7 +222,7 @@ https://www.youtube.com/@manualdomundo
 
 ## DIY Perks
 
-Mods cinematográficos e projetos absurdos.
+Projetos DIY absurdos
 
 https://www.youtube.com/@DIYPerks
 
@@ -260,12 +232,6 @@ Eletrônica prática e projetos DIY.
 
 https://www.youtube.com/@greatscottlab
 
-## ElectroBOOM
-
-Eletrônica caótica e divertida.
-
-https://www.youtube.com/@ElectroBOOM
-
 ## Ben Eater
 
 Como computadores realmente funcionam.
@@ -273,8 +239,6 @@ Como computadores realmente funcionam.
 https://www.youtube.com/@BenEater
 
 ---
-
-# 💻 Rabbit Holes
 
 ## Cyberdecks
 
@@ -285,48 +249,26 @@ Computadores portáteis DIY inspirados em sci-fi e cultura hacker.
 * telas reaproveitadas
 * cases customizadas
 
+Comunidade do discord: 
+
+Reddit:
 https://www.reddit.com/r/cyberDeck
-
----
-
-## Circuit Bending
-
-Brinquedos transformados em instrumentos glitchados.
-
-http://www.circuitbending.com
-
----
-
-## Engenharia Reversa
-
-Abrir coisas e descobrir como funcionam.
-
-* rádios
-* videogames
-* brinquedos
-* placas antigas
-* CRTs
 
 ---
 
 # 🧪 Ideias de Projetos
 
-* cyberdeck portátil
+* cyberdeck
 * brinquedo modificado
 * mini servidor caseiro
 * relógio customizado
 * teclado mecânico DIY
-* ESP32 com display
-* gadgets inúteis
 * synth glitchado
-* rádio portátil
-* monitor de plantas
-* mini terminal hacker
-* CRT reaproveitado
+* mini terminal
 
 ---
 
-# 📚 Filosofia
+# 📚 Se permita errar!
 
 A melhor forma de aprender tecnologia é construindo coisas.
 
